@@ -1,0 +1,33 @@
+﻿生成启动时间为 2018/1/18 17:59:21。
+     1>项目“D:\workspace\yqt-sdk\yqt-sdk\yqt-sdk.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\yqt-sdk.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         I:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\yqt-sdk.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\hpffl\Documents\WeChat Files\zcn010520\Files\AESUtils.cpp" "yqt-sdk.cpp"
+         yqt-sdk.cpp
+         AESUtils.cpp
+         正在生成代码...
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         I:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\workspace\yqt-sdk\Debug\yqt-sdk.exe" /INCREMENTAL /NOLOGO libcurl.lib /MANIFEST /ManifestFile:"Debug\yqt-sdk.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\workspace\yqt-sdk\Debug\yqt-sdk.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\workspace\yqt-sdk\Debug\yqt-sdk.lib" /MACHINE:X86 "Debug\yqt-sdk.exe.embed.manifest.res"
+         Debug\AESUtils.obj
+         Debug\HttpClient.obj
+         Debug\stdafx.obj
+         Debug\StringUtils.obj
+         "Debug\yqt-sdk.obj"
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\yqt-sdk.exe.embed.manifest" /manifest "Debug\yqt-sdk.exe.intermediate.manifest" "I:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         yqt-sdk.vcxproj -> D:\workspace\yqt-sdk\Debug\yqt-sdk.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\yqt-sdk.unsuccessfulbuild”。
+         正在对“Debug\yqt-sdk.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\workspace\yqt-sdk\yqt-sdk\yqt-sdk.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.44
